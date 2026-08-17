@@ -1,0 +1,7 @@
+# Whitelist mode: everything is ignored unless explicitly allowed below.
+# This keeps drafts, notes, source files, and anything personal out of the repo.
+*
+!.gitignore
+!DISCLAIMER.md
+!*.pdf
+!*/
