@@ -3,5 +3,6 @@
 *
 !.gitignore
 !DISCLAIMER.md
+!README.md
 !*.pdf
 !*/
